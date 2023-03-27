@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/images/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Bag",
+    "price": 50,
+    "imgUrl": "/images/bag.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Bottle",
+    "price": 20.99,
+    "imgUrl": "/images/bottle.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "price": 100.99,
+    "imgUrl": "/images/fossil.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shoes",
+    "price": 50.5,
+    "imgUrl": "/images/shoes.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Jacket",
+    "price": 60.99,
+    "imgUrl": "/images/jacket.jpg"
+  }
+]
